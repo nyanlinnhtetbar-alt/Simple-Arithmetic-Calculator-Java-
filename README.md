@@ -20,32 +20,17 @@ Division (/): Handled as a float to show decimal remainders.
 Remainder/Modulo (%)
 
 📋 How to Run
-Ensure you have Java JDK installed on your machine.
+1. Ensure you have Java JDK installed on your machine.
 
-Download the simple.java file.
+2. Download the simple.java file.
 
-Open your terminal or command prompt.
+3. Open your terminal or command prompt.
 
-Compile the code:
+4. Compile the code
 
-Bash
-javac simple.java
-Run the program:
-
-Bash
-java simple
-💻 Example Output
-Plaintext
-Enter number 1 : 9
-Enter number 2 : 5
-Your addition number is 14
-Your subtraction number is 4
-Your multiply number is 45
-Your divide number is 1.8
-Your remainder number is 4
 📖 What I Learned
-The importance of logical sequence in programming (Input ➔ Calculation ➔ Output).
+- The importance of logical sequence in programming (Input ➔ Calculation ➔ Output).
 
-How to use Explicit Type Casting (float) to prevent data loss during integer division.
+- How to use Explicit Type Casting (float) to prevent data loss during integer division.
 
-Using %.1f in System.out.printf to format decimal output.
+- Using %.1f in System.out.printf to format decimal output.
